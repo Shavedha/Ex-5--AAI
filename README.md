@@ -3,7 +3,7 @@
 ## Register No.: 212221230095
 ## Date: 12.09.2024
 ## Aim:
-    To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
+To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
 ## Algorithm:
 Step 1: Define the state transition model F, the observation model H, the process noise covariance Q, the measurement noise covariance R, the initial state estimate x0, and the initial error covariance P0.<BR>
 Step 2:  Create a KalmanFilter object with these parameters.<BR>
